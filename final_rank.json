@@ -1,0 +1,20 @@
+{
+  "github_url": "https://github.com/donthegust/desafio_spotify_raccoon",
+  "name": "Gustavo Lourenço",
+  "follower_ranking": [
+    { "artist_name": "Ed Sheeran", "followers": 110663355 },
+    { "artist_name": "Ariana Grande", "followers": 88917092 },
+    { "artist_name": "Justin Bieber", "followers": 70789017 },
+    { "artist_name": "Taylor Swift", "followers": 70447437 },
+    { "artist_name": "Eminem", "followers": 67909381 },
+    { "artist_name": "Rihanna", "followers": 53928858 },
+    { "artist_name": "Bruno Mars", "followers": 47129496 }
+  ],
+  "popularity_ranking": [
+    { "artist_name": "Taylor Swift", "popularity": 100 },
+    { "artist_name": "Eminem", "popularity": 93 },
+    { "artist_name": "Rihanna", "popularity": 93 },
+    { "artist_name": "Shakira", "popularity": 93 },
+    { "artist_name": "Ed Sheeran", "popularity": 92 }
+  ]
+}
